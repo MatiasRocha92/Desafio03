@@ -68,17 +68,17 @@ form {
 
 fieldset {
     border: none;
-    margin-bottom: 1.1rem;
+    margin-bottom: 0.3rem;
 }
 
 input[type="text"],
 input[type="email"],
 input[type="tel"],
 textarea {
-    width: calc(50% - 1rem);
+    width: calc(50% - 0.2rem);
     padding: 1rem;
     margin-bottom: 1rem;
-    border: 0.7rem solid #ccc;
+    border: 0.1rem solid #ccc;
     border-radius: 1rem;
     box-sizing: border-box;
 }
